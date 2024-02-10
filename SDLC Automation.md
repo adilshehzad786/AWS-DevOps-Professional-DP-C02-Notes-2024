@@ -146,6 +146,20 @@ Base table have UserId and GameTitle , if we want to make more index i.e  Topsco
 - Traffic splitting deployment
 - Blue/green
 
+## Elastic Beanstalk Deployment Policies 
+
+- All at once: Updates all instances simultaneously, causing downtime.
+
+- Rolling deployment: Updates instances in batches, reducing but not eliminating downtime.
+
+- Rolling deployment with additional batch: Similar to rolling but adds new instances to maintain capacity, minimizing downtime.
+
+- Immutable deployment: Launches new instances with the update before swapping, eliminating downtime.
+
+- Traffic splitting deployment: Routes a percentage of traffic to new instances with the update, testing changes with minimal downtime.
+
+- Blue/green: Deploys the new version alongside the old, then switches traffic, effectively eliminating downtime.
+
 ### Additional Tools
 
 - **CodeGuru**: Offers intelligent recommendations to improve code quality.

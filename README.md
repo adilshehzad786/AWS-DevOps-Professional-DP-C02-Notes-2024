@@ -4,14 +4,14 @@
 
 
 ## Table of Contents
-- [SDLC Automation](/1.SDLC Automation.md)
-- [Configuration Management and IaC](/2.Configuration Management and IaC.md)
-- [Resilient Cloud Solutions](/3.Resilient Cloud Solutions.md)
-- [Monitoring and Logging](/4.Monitoring and Logging.md)
-- [Incident and event response](/5.Incident and event response.md)
-- [Security and Compliance](/6.Security and Compliance.md)
-- [More AWS Services to Focus](/7.More AWS Services to Focus.md)
-- [AWS Cheatsheet](/9. AWS Cheatsheet.md)
+- [SDLC Automation](/1.SDLC%20Automation.md)
+- [Configuration Management and IaC](/2.Configuration%20Management%20and%20IaC.md)
+- [Resilient Cloud Solutions](/3.Resilient%20Cloud%20Solutions.md)
+- [Monitoring and Logging](/4.Monitoring%20and%20Logging.md)
+- [Incident and event response](/5.Incident%20and%20event%20response.md)
+- [Security and Compliance](/6.Security%20and%20Compliance.md)
+- [More AWS Services to Focus](/7.More%20AWS%20Services%20to%20Focus.md)
+- [AWS Cheatsheet](/8.%20AWS%20Cheatsheet.md)
 
 ## Exam Tips
 

@@ -32,7 +32,7 @@
 
 ### CloudAcademy Labs for AWS DevOps Professional
 - **Description**: CloudAcademy offers hands-on labs specifically tailored for the AWS DevOps Professional certification. These labs provide practical experience with AWS services and DevOps practices.
-- **Platform**: [CloudAcademy - AWS DevOps Labs](https://cloudacademy.com/library/aws/labs/)
+- **Platform**: [CloudAcademy - AWS DevOps Labs](https://cloudacademy.com/learning-paths/aws-devops-engineer-professional-dop-c02-certification-preparation-for-aws-1-9637/?program=1acec0f4-f7a7-44b8-9768-ad8792c9ba6d)
 
 ## Practice Exams
 

@@ -1,8 +1,5 @@
 # AWS DevOps Professional Notes
 
-## Description
-
-
 ## Table of Contents
 - [SDLC Automation](/1.SDLC%20Automation.md)
 - [Configuration Management and IaC](/2.Configuration%20Management%20and%20IaC.md)

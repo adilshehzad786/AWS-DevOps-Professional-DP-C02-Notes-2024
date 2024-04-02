@@ -1,5 +1,5 @@
 # AWS DevOps Professional Notes
-![alt text](image.png)
+<img src="image.png" alt="alt text" width="100"/>
 
 ## Table of Contents
 - [SDLC Automation](/1.SDLC%20Automation.md)
